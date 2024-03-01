@@ -27,6 +27,6 @@ I am currently a software development student at the Manitoba Institute of Trade
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaseSwedlo&theme=tokyonight&layout=donut&show_icons=true&langs_count=4" alt="most used languages"/>
 
 ######
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChaseSwedlo&theme=tokyo-night&&height=300&&radius=6&&custom_title=My%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChaseSwedlo&theme=tokyo-night&&height=300&&radius=8&&custom_title=My%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
