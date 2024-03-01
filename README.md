@@ -1,3 +1,5 @@
+![](./assets/bg.png)
+
 ## About me
 
 Hello, world! 👋 I'm Chase Swedlo, a passionate software developer based in Winnipeg, Manitoba.
