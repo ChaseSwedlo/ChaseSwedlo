@@ -17,6 +17,7 @@ I'm passionate about solving complex problems and developing intuitive projects 
 <img src="https://img.shields.io/badge/framework-ASP.NET_MVC-informational?style=for-the-badge&logo=.net&logoColor=318ce7&color=0169ca" alt="ASP.NET MVC Badge"/>&nbsp;
 <img src="https://img.shields.io/badge/editor-VS%20Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=318ce7&color=0169ca" alt="VS Code Badge"/>&nbsp;
 <img src="https://img.shields.io/badge/editor-Visual%20Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=318ce7&color=0169ca" alt="Visual Studio Badge"/>&nbsp;
+<img src="https://img.shields.io/badge/SQL-database-informational?style=for-the-badge&logo=database&logoColor=318ce7&color=0169ca" alt="SQL Badge"/>&nbsp;
 
 </p>
 
