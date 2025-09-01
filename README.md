@@ -25,10 +25,6 @@ I'm passionate about solving complex problems and developing intuitive projects 
 
 ![](./assets/bg2.png)
 
-### Education
-I am currently a software development student at the Manitoba Institute of Trades and Technology. Eagerly learning diverse programming languages, I embrace hands-on experiences and collaborative projects to enhance my skills in this dynamic field.🚀
-
-##
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaseSwedlo&theme=tokyonight&layout=donut&show_icons=true&langs_count=4" alt="most-used-languages"/>
